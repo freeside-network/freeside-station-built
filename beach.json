@@ -4554,6 +4554,39 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":75,
+                         "tileid":329
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":334
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":332
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":336
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":330
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":335
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":331
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":333
+                        }],
                  "id":329,
                  "properties":[
                         {
@@ -5499,6 +5532,86 @@
                          "tileid":67
                         }],
                  "id":54
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":105,
+                         "tileid":108
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":109
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":110
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":111
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":112
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":113
+                        }],
+                 "id":108
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":105,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":170
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":171
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":172
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":173
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":174
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":175
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":176
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":177
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":178
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":179
+                        }, 
+                        {
+                         "duration":105,
+                         "tileid":180
+                        }],
+                 "id":169
                 }],
          "tilewidth":32
         }],

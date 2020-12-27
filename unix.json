@@ -3255,6 +3255,39 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":75,
+                         "tileid":329
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":334
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":332
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":336
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":330
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":335
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":331
+                        }, 
+                        {
+                         "duration":75,
+                         "tileid":333
+                        }],
                  "id":329,
                  "properties":[
                         {
