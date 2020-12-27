@@ -20,6 +20,12 @@
          "id":20,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"main.json#bar_with_a_cat"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
