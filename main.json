@@ -20,7 +20,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"hackerspace"
+                 "value":"bar"
                 }],
          "type":"tilelayer",
          "visible":true,
