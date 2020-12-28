@@ -42,7 +42,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"freeside\/ccity.mp3"
+                 "value":"https:\/\/hangar.rc3.world\/freeside\/ccity.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
