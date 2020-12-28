@@ -42,7 +42,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"ccity.mp3"
+                 "value":"freeside\/ccity.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
