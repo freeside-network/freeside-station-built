@@ -4712,6 +4712,71 @@
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":194
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":240
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":200
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":224
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":194
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":246
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":194
+                        }],
+                 "id":194
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":195
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":241
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":201
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":225
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":195
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":247
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":195
+                        }],
+                 "id":195
+                }],
          "tilewidth":32
         }, 
         {
