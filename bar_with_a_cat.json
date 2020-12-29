@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/angry_cat.mp3"
+                 "value":"angry_cat.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
