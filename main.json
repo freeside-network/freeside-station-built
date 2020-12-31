@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"singulu.json#start"
+                 "value":"singulo.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
