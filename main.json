@@ -36,9 +36,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"singulo.json#start"
+                 "value":"singulu.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
