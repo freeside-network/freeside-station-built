@@ -800,6 +800,11 @@
                  "name":"getBadge",
                  "type":"string",
                  "value":"0JsEjgL360bvuaaebJBKfFOXTNOQkB3BUmocwlIMzucFByYzoP "
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/rc3.world\/rc3\/me\/redeem_badge\/GtcGw9e30TnG6uMb8uKvyPX97WaqxxMwnsb3MXWrnZFO8aqWJN"
                 }],
          "type":"tilelayer",
          "visible":true,
