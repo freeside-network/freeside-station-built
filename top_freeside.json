@@ -188,6 +188,12 @@
          "imagewidth":1440,
          "margin":0,
          "name":"sci-fi",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"You can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product."
+                }],
          "spacing":0,
          "tilecount":720,
          "tileheight":32,
@@ -201,6 +207,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"beach",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"You can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product."
+                }],
          "spacing":0,
          "terrains":[
                 {
@@ -1095,6 +1107,12 @@
          "imagewidth":768,
          "margin":0,
          "name":"rc3-freeside-sign",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"You can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product."
+                }],
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
@@ -1173,6 +1191,12 @@
          "imagewidth":672,
          "margin":0,
          "name":"structures",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"You can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product."
+                }],
          "spacing":0,
          "tilecount":441,
          "tileheight":32,
@@ -5054,6 +5078,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"Building",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"You can use the Licensed Asset to create Derivative Works; and\n\n(a) use the Licensed Asset and any Derivative Works as part of both Non-Monetized Media Products and Monetized Media Products, with no restriction on the number of projects the Licensed Asset may be used in. In either case, the Licensed Assets can be used in Media Products that are either:\n\n(b) used for the Purchaser\u2019s own personal use; and\/or\n\n(c) used for the Purchaser\u2019s commercial use in which case it may be distributed, sold and supplied by the Purchaser for any fee that the Purchaser may determine.\n\nA Licence does not allow the Purchaser to:\n\n(a1) Use the Licensed Asset or Derivative Works in a logo, trademark or service mark;\n\n(b1) Use, sell, share, transfer, give away, sublicense or redistribute the Licensed Asset or Derivate Works other than as part of the relevant Media Product; or\n\n(c1) Allow the user of the Media Product to extract the Licensed Asset or Derivative Works and use them outside of the relevant Media Product."
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
